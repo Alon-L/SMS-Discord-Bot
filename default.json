@@ -1,0 +1,10 @@
+{
+  "guildId": "548552062242390037",
+  "channel": "sms",
+  "embed": {
+    "color": {
+      "main": "0x42f4cb"
+    }
+  },
+  "hours": 7200000
+}
